@@ -1,4 +1,4 @@
-package org.example.adapter_pattern.object_adapter;
+package org.example.adapter_pattern;
 
 public class Adaptee {
 
